@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\bin\Debug\netcoreapp3.1\Exerc-cio-Condicionais.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\bin\Debug\netcoreapp3.1\Exerc-cio-Condicionais.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\bin\Debug\netcoreapp3.1\Exerc-cio-Condicionais.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\bin\Debug\netcoreapp3.1\Exerc-cio-Condicionais.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\bin\Debug\netcoreapp3.1\Exerc-cio-Condicionais.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\bin\Debug\netcoreapp3.1\Exerc-cio-Condicionais.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Exerc-cio-Condicionais\obj\Debug\netcoreapp3.1\Exerc-cio-Condicionais.genruntimeconfig.cache
